@@ -8,7 +8,7 @@ class ProductsSpider(scrapy.Spider):
     name = "productsSpider"
 
     start_urls = [
-        'https://www.examplewooshop.com/shop/',
+        'https://sextoys.co.za/shop/',
     ]
 
     # rules = (
